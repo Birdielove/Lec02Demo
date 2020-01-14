@@ -3,4 +3,11 @@
     <string name="title_activity_recipe">Recipe</string>
     <string name="Recipe">Bruchetta Recipe</string>
     <string name="Button">Show Recipe</string>
+    <string name="Ingredients">Ingredients</string>
+    <string name="Ingredient1">4 plum tomatoes</string>
+    <string name="Ingredient2">6 basil leaves</string>
+    <string name="Ingredient3">3 Garlic cloves, chopped</string>
+    <string name="Ingredient4" >3 TB olive oil</string>
+    <string name="Directions">Directions</string>
+    <string name="DirectionsString">Combine the ingredients and add salt to taste. Top French bread slices with mixture.</string>
 </resources>
